@@ -1,5 +1,3 @@
-# numero-secreto
-
 # Sorteador de Amigo Secreto
 
 ## Descrição
