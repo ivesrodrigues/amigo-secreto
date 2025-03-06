@@ -16,14 +16,15 @@ Este é um simples sorteador de amigo secreto desenvolvido com **HTML, CSS e Jav
 - **JavaScript**: Lógica de adição, sorteio e limpeza de lista
 
 ## Como Usar
-1. Clone o repositório ou baixe os arquivos.
+1. Endereço: https://amigo-secreto-dun-iota.vercel.app/.
+2. Clone o repositório ou baixe os arquivos.
    ```bash
    git clone https://github.com/ivesrodrigues/sorteador-amigo-secreto.git
    ```
-2. Abra o arquivo `index.html` em seu navegador.
-3. Digite os nomes e clique em **Adicionar**.
-4. Clique em **Sortear Amigo** para realizar o sorteio.
-5. Se desejar, clique em **Limpar Lista** para reiniciar o processo.
+3. Abra o arquivo `index.html` em seu navegador.
+4. Digite os nomes e clique em **Adicionar**.
+5. Clique em **Sortear Amigo** para realizar o sorteio.
+6. Se desejar, clique em **Limpar Lista** para reiniciar o processo.
 
 ## Estrutura do Projeto
 ```
