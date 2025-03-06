@@ -18,7 +18,7 @@ Este é um simples sorteador de amigo secreto desenvolvido com **HTML, CSS e Jav
 ## Como Usar
 1. Clone o repositório ou baixe os arquivos.
    ```bash
-   git clone https://github.com/seu-usuario/sorteador-amigo-secreto.git
+   git clone https://github.com/ivesrodrigues/sorteador-amigo-secreto.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 3. Digite os nomes e clique em **Adicionar**.
